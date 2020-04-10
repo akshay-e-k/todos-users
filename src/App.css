@@ -1,0 +1,13 @@
+.App {
+  margin: 0 30%;
+}
+.edit-link {
+  border-right: 1px solid #ccc;
+  padding-right: 10px;
+}
+.delete-link {
+  margin-left: 10px;
+}
+.create-buttons-block {
+  margin-bottom: 10px;
+}
